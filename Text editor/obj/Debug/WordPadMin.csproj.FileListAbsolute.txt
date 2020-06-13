@@ -1,0 +1,37 @@
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.Form1.resources
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.Properties.Resources.resources
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.csproj.GenerateResource.cache
+C:\Users\Shatcung\source\repos\WordPadMin\bin\Debug\WordPadMin.exe.config
+C:\Users\Shatcung\source\repos\WordPadMin\bin\Debug\WordPadMin.exe
+C:\Users\Shatcung\source\repos\WordPadMin\bin\Debug\WordPadMin.pdb
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.exe
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.pdb
+C:\Users\Admin\Desktop\WordPadMin\bin\Debug\WordPadMin.exe.config
+C:\Users\Admin\Desktop\WordPadMin\bin\Debug\WordPadMin.exe
+C:\Users\Admin\Desktop\WordPadMin\bin\Debug\WordPadMin.pdb
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.Form1.resources
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.Properties.Resources.resources
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.exe
+C:\Users\Admin\Desktop\WordPadMin\obj\Debug\WordPadMin.pdb
+C:\Users\Shatcung\source\repos\WordPadMin\obj\Debug\WordPadMin.csprojAssemblyReference.cache
+D:\Study\C#\WindowsForms\Text editor\bin\Debug\WordPadMin.exe.config
+D:\Study\C#\WindowsForms\Text editor\bin\Debug\WordPadMin.exe
+D:\Study\C#\WindowsForms\Text editor\bin\Debug\WordPadMin.pdb
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.csprojAssemblyReference.cache
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.Form1.resources
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.Properties.Resources.resources
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.csproj.GenerateResource.cache
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.csproj.CoreCompileInputs.cache
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.exe
+D:\Study\C#\WindowsForms\Text editor\obj\Debug\WordPadMin.pdb
+C:\Users\Пожилой Папугай\Desktop\Text editor\bin\Debug\WordPadMin.exe.config
+C:\Users\Пожилой Папугай\Desktop\Text editor\bin\Debug\WordPadMin.exe
+C:\Users\Пожилой Папугай\Desktop\Text editor\bin\Debug\WordPadMin.pdb
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.csprojAssemblyReference.cache
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.Form1.resources
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.Properties.Resources.resources
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.csproj.GenerateResource.cache
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.exe
+C:\Users\Пожилой Папугай\Desktop\Text editor\obj\Debug\WordPadMin.pdb
